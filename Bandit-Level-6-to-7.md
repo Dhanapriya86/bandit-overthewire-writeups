@@ -13,4 +13,3 @@ Found the password for Level 7
 ## What I learned
 - How to search files using the find command
 - How to filter files by user, group, and size
-- How to suppress permission errors using 2>/dev/null
